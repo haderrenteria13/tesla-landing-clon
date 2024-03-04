@@ -1,0 +1,47 @@
+---
+import LandingHeader from '../components/LandingHeader.astro';
+import Logo from '../components/Logo.astro';
+import HeroSection from '../components/HeroSection.astro';
+import ModelY from '../components/ModelY.astro';
+import ModelThree from '../components/ModelThree.astro';
+import ModelS from '../components/ModelS.astro';
+import ModelX from '../components/ModelX.astro';
+import PowerWall from '../components/PowerWall.astro';
+import Accessories from '../components/Accessories.astro';
+import Layout from '../layouts/Layout.astro';
+---
+
+<Layout title="Tesla Clon">
+	<LandingHeader />
+
+	<main class="snap-y snap-mandatory relative w-full h-screen overflow-y-auto overflow-x-hidden scroll-smooth">
+		{/* Sección Hero */}
+		<div class="snap-center">
+			<HeroSection />
+		</div>
+
+		{/* Componentes de los modelos */}
+		<div class="snap-center">
+			<ModelY />
+		</div>
+		<div class="snap-center">
+			<ModelThree />
+		</div>
+		<div class="snap-center">
+			<ModelX />
+		</div>
+		<div class="snap-center">
+			<ModelS />
+		</div>
+
+		{/* Componentes adicionales */}
+		<div class="snap-center">
+			<PowerWall />
+		</div>
+		<div class="snap-center">
+			<Accessories />
+		</div>
+	</main>
+</Layout>
+
+
