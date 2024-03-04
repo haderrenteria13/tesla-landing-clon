@@ -1,3 +1,5 @@
+![Clon](https://github.com/haderrenteria13/tesla-landing-clon/assets/106301008/08581b23-444f-47aa-87ac-d53971ebc6f8)
+
 # Astro Starter Kit: Basics
 
 ```sh
@@ -10,7 +12,7 @@ npm create astro@latest -- --template basics
 
 > 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+![Clon (3)](https://github.com/haderrenteria13/tesla-landing-clon/assets/106301008/d4e3b5c2-f0e2-41ca-bc2a-d249e003fe15)
 
 ## 🚀 Project Structure
 
@@ -49,6 +51,5 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+---
+hecho con ❤️ por [Hader Renteria] 😊
